@@ -1,0 +1,15 @@
+class MarblesBoard:
+	
+	def _init_(self, array):
+		self.board = [array]
+		
+	def switch():
+		temp = board[0]
+		board[0] = board[1]
+		board[1] = temp
+	
+	def rotate():
+		
+	
+	def is_solved():
+		
